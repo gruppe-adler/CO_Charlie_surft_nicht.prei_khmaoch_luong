@@ -11,7 +11,9 @@ _lage =
 
 //Auftragsbeschreibung - Darlegung des Missionszieles
 _auftrag =
-"";
+"Suchen und Zerstören<br /><br />
+Der Vietcong hat im Gebiet um Kanleng Krothnak seine Kräfte verstärkt, durchsuchen sie den Ort und die Gegend um Kin Preaek nach VC feindlichen Kräften und vernichten diese.<br /><br />
+Weitere Aufträge folgen bei Feindsichtungen";
 
 //Durchführung - Wie soll das Missionsziel erreicht werden? Truppeneinteilung, Sicherung, Gefechtsaufklärung
 _durchfuehrung =
